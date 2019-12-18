@@ -1,0 +1,46 @@
+body{background-image: url("cavern.jpg");
+}
+
+div{border: solid purple 3px;
+    margin: auto;
+    background-color: #00FFFF;
+    width: 600px;
+    font-size: 16pt;
+    margin-bottom: 0.35em  
+}
+
+img{border-radius: 25%;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 320px;
+    height: 480px;
+}
+
+#sound{width: 750px;
+      height: 75px;
+      text-align: center;
+      border: dashed green 3px;
+      background-color: yellow;
+}
+
+#soundlink{color:hotpink;}
+
+#title {border: dotted red 2px;
+          margin: auto;
+          background-color: lightgreen;
+          width: 480px;
+          text-align: center;
+}
+
+#name{color:red;}
+
+h2{text-align: center;
+  font-size: 16pt;
+}
+
+p{text-align: center;
+  font-size: 16pt;
+}
